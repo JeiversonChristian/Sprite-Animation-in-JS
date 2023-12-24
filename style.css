@@ -4,6 +4,4 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%); /*move o elemento de volta 50% de sua largura para a esquerda e 50% de sua altura para cima, agora em relação ao seu próprio centro.*/
-    width: 600px;
-    height: 600px;
 }
